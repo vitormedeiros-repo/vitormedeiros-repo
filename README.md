@@ -1,4 +1,6 @@
-## Hi there 👋
+## Olá, Seja Bem-Vindos!👋
+
+Eu sou Vitor Medeiros e este é meu repositório.
 
 <!--
 **vitormedeiros-repo/vitormedeiros-repo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
